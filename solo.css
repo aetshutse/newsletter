@@ -1,0 +1,32 @@
+h1 {
+    color: #121212;
+}
+
+img{
+    width:380px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+}
+
+.btn-wrapperA{
+    display: block;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.btn-wrapperB{
+    display: block;
+    text-align: center;
+}
+
+.btnB {
+    width: 110px;
+}
+
+.tms{
+    text-align: center;
+}
